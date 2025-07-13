@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Najd!
 
-I'm a Data Analyst working with AI technologies, CompTIA Data+ certified, passionate about transforming data into meaningful insights and real-world impact.
+I'm a Data Analyst working with AI technologies, passionate about transforming data into meaningful insights and real-world impact.
 
 **What I do:**  
 - Build complete data pipelines using Python, SQL, and BI tools  
